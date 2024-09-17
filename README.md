@@ -3,12 +3,12 @@ Arduino ESP Weather Clock. Takes time and local weather data from the Internet a
 
 An ESP32 based weather clock, which connects via wi-fi, to regularly update the time and local weather.
 
-The original project has open-source firmware but requires bespoke (expensive) hardware.
+The original project has open-source source code but requires bespoke (expensive) hardware.
 I found a few issues that would stop many being able to build this weather clock. These have been overcome, allowing anybody to make the Weather Clock.
 
-First issue was hardware. The firmware (open-source) is designed to run on bespoke hardware, which is both expensive to purchase and expensive to ship. This issue has been overcome by re-writing the code to work on cheap Aliexpress parts.
+First issue was hardware. The code (open-source) is designed to run on bespoke hardware, which is both expensive to purchase and expensive to ship. This issue has been overcome by re-writing the code to work on cheap Aliexpress parts.
 
-The second, is the firmware itself. It is very complex and unless the user is familiar with python, Visual Studio and Platform IO, they would struggle
+The second, is the code itself. It is very complex and unless the user is familiar with python, Visual Studio and Platform IO, they would struggle.
 .
 Solution here is to re-write and compile the code, so the user can easily flash it directly to the ESP32. 
 
