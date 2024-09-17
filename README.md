@@ -16,8 +16,6 @@ In order for the user to set their WIFI, time-zone, daylight saving, location, l
 
 
 This project is based on the original open-source code and project details found here.
-ESP32 WiFi Color Display Kit Grande • ThingPulse
+
+https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/
  
- Note The firmware code used for my version has been heavily modified to make it much simpler to build and use.
- The original open-source code will work, if you want to try it, but will require editing as all of the user credentials are hard coded.
- You will also need to change the TFT pin configuration, either in the code or on the hardware. 
