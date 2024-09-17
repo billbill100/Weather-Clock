@@ -11,3 +11,11 @@ First issue was hardware. The firmware (open-source) is designed to run on bespo
 The second, is the firmware itself. It is very complex and unless the user is familiar with python, Visual Studio and Platform IO, they would not be able to load the firmware.
 Solution here is to re-write and compile the code, so the user can easily flash it directly to the ESP32. 
 In order for the user to set their WIFI, time-zone, daylight saving, location, language etc, a new menu has been written, allowing the user to easily add or change these details. Once added, they are saved internally and will remain after a power-cut. 
+
+
+This project is based on the original open-source code and project details found here.
+ESP32 WiFi Color Display Kit Grande • ThingPulse
+ 
+ Note The firmware code used for my version has been heavily modified to make it much simpler to build and use.
+ The original open-source code will work, if you want to try it, but will require editing as all of the user credentials are      hard coded.
+ You will also need to change the TFT pin configuration, either in the code or on the hardware. 
