@@ -18,7 +18,7 @@ In order for the user to set their WIFI, time-zone, daylight saving, location, l
 This project is based on the original open-source code and project details found here.
 
 # Important update for those living in the Southern Hemesphere: -
-use the file tilted littlefs_southern.bin instead of littlefs.bin
+use the file titled littlefs_southern.bin instead of littlefs.bin
 
 https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/
  
