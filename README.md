@@ -14,7 +14,7 @@ Solution here is to re-write and compile the code, so the user can easily flash 
 
 In order for the user to set their WIFI, time-zone, daylight saving, location, language etc, a new menu has been written, allowing the user to easily add or change these details. Once added, they are saved internally and will remain after a power-cut. 
 
-Languages now suppoerted en, cz, pt,fr, de
+Languages now supported en, cz, pt,fr, de.
 
 Latest firmware (de added) 0_0_3
 
