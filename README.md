@@ -18,6 +18,10 @@ Languages now supported en, cz, pt,fr, de.
 
 Latest firmware (de added) 0_0_3
 
+ Github has no direct means of contact, my email address is
+# bill bill github at gmail dot com
+(remove sapces & change to @ . )
+
 # Important update for those living in the Southern Hemesphere: -
 use the file titled littlefs_southern.bin instead of littlefs.bin
 
