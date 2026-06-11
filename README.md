@@ -16,14 +16,21 @@ In order for the user to set their WIFI, time-zone, daylight saving, location, l
 
 Languages now supported en, cz, pt,fr, de.
 
-Latest firmware (de added) 0_0_3
+Latest firmware (de added) 0_0_4
 
  Github has no direct means of contact, my email address is
 # bill bill github at gmail dot com
-(remove sapces & change to @ . )
+(remove spaces & change at to @ and dot to . )
 
-# Important update for those living in the Southern Hemesphere: -
-use the file titled littlefs_southern.bin instead of littlefs.bin
+# Important update for your Hemesphere: -
+use the file littlefs_northern.bin if you are in the northern hemesphere 
+or
+use the file titled littlefs_southern.bin if you are in the southern hemesphire
+else your moon will be upside down :o)
+
+# New parameter added in 0_0_4
+which allows thew windspeed to be shown in mph, if metric units are selected
+Ideal for UK people, where mph is still used for speed and distance, with sI units for everything else.
 
 
 This project is based on the original open-source code and project details found here.
