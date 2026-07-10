@@ -19,7 +19,7 @@ This has been overcome by adding a new menu. This allows the user the user to ea
 
 Languages now supported en, cz, pt,fr, de.
 
-Latest firmware (de added) 0_0_4
+Latest firmware 0_0_5   July 2026
 
  Github has no direct means of contact, my email address is
 # bill bill github at gmail dot com
