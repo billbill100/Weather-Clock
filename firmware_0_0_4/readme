@@ -1,3 +1,0 @@
-Select either littlefs_northern.bin or littlefs_southern.bin depending on the hemesphere you live in.
-
-Flash ONLY one of these files to your ESP32.
